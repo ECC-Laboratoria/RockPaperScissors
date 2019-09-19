@@ -24,9 +24,11 @@ Realiza las instrucciones de la sección **¿Cómo vamos a estar trabajando?** d
 
 1. Entra a https://www.apple.com/ios/ios-13/ y contesta:
 
-  1. ¿Qué es iOS?
-  2. ¿Cuál es la versión más actual de iOS?
-  3. ¿Qué características tiene la versión más nueva?
+  - ¿Qué es iOS?
+
+  - ¿Cuál es la versión más actual de iOS?
+
+  - ¿Qué características tiene la versión más nueva?
 
 2. Entra a https://developer.apple.com/videos/wwdc2019/ y contesta: 
 
@@ -57,6 +59,7 @@ Realiza las instrucciones de la sección **¿Cómo vamos a estar trabajando?** d
 6. Entra a https://developer.apple.com/swift/ y contesta: 
 
   1. ¿Qué es Swift?, ¿En qué año salió?
+  2. ¿Qué es Swift?, ¿En qué año salió?
 
   2. ¿Cuál es la versión más nueva?
 
