@@ -24,11 +24,9 @@ Realiza las instrucciones de la sección **¿Cómo vamos a estar trabajando?** d
 
 1. Entra a https://www.apple.com/ios/ios-13/ y contesta:
 
-  - ¿Qué es iOS?
-
-  - ¿Cuál es la versión más actual de iOS?
-
-  - ¿Qué características tiene la versión más nueva?
+  1. ¿Qué es iOS?
+  2. ¿Cuál es la versión más actual de iOS?
+  3. ¿Qué características tiene la versión más nueva?
 
 2. Entra a https://developer.apple.com/videos/wwdc2019/ y contesta: 
 
@@ -64,9 +62,9 @@ Realiza las instrucciones de la sección **¿Cómo vamos a estar trabajando?** d
 
   3. Lee todas las secciones de esta página y describe lo que más captó tu atención. 
 
-13. Si tienes Mac, descarga de la aplicación de Libros los primeros tres links del repositorio **StartHere** del curso. 
+7. Si tienes Mac, descarga de la aplicación de Libros los primeros tres links del repositorio **StartHere** del curso. 
 
-14. Entra a http://online.swiftplayground.run/ y resuelve los puntos de la pregunta siguiente. Al finalizar todos los ejercicios, descarga el archivo con extensión **.swift** y súbelo a tu repositorio.
+8. Entra a http://online.swiftplayground.run/ y resuelve los puntos de la pregunta siguiente. Al finalizar todos los ejercicios, descarga el archivo con extensión **.swift** y súbelo a tu repositorio.
 
 9. Entra a https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html y en la página de la pregunta anterior haz los siguientes ejemplos (es decir, lee el código, entiéndelo y escribe los ejemplos): 
 
@@ -85,5 +83,4 @@ Realiza las instrucciones de la sección **¿Cómo vamos a estar trabajando?** d
       7. Repeat
    6. **Enumerations**: prestar atención a lo siguiente:
    7. 1. Enumeraciones y switch 
-
 
