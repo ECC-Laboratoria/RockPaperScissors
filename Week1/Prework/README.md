@@ -24,15 +24,17 @@ Realiza las instrucciones de la sección **¿Cómo vamos a estar trabajando?** d
 
 1. Entra a https://www.apple.com/ios/ios-13/ y contesta:
 
-  1. ¿Qué es iOS?
-  2. ¿Cuál es la versión más actual de iOS?
-  3. ¿Qué características tiene la versión más nueva?
+  - ¿Qué es iOS?
+
+  - ¿Cuál es la versión más actual de iOS?
+
+  - ¿Qué características tiene la versión más nueva?
 
 2. Entra a https://developer.apple.com/videos/wwdc2019/ y contesta: 
 
-  1. ¿Qué es la WWDC, e investiga sobre la beca para estudiantes?
+  - ¿Qué es la WWDC, e investiga sobre la beca para estudiantes?
 
-  2. Lee todos los títulos de los videos junto con su descripción y enlista 3 videos que te hayan llamado la atención. 
+  - Lee todos los títulos de los videos junto con su descripción y enlista 3 videos que te hayan llamado la atención. 
 
 3. Entra a https://developer.apple.com/design/human-interface-guidelines/ y contesta: 
 
