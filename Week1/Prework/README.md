@@ -20,6 +20,9 @@ Al inicio de cada sesión, haremos preguntas sobre el Prework. Les recomendamos 
 
 Realiza las instrucciones de la sección **¿Cómo vamos a estar trabajando?** del repositorio del curso: https://github.com/ECC-Laboratoria/StartHere. Posteriormente, entra a la carpeta **ECC-Laboratoria/Week1/Prework** y dentro del archivo **README.md** contesta las siguientes preguntas de este prework. Es importante que realicen todas 
 
+1. Entra a https://www.apple.com/ios/ios-13/ y contesta:
+   1. ¿Qué es iOS?
+
 
 
 1. Entra a https://www.apple.com/ios/ios-13/ y contesta:
