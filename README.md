@@ -1,6 +1,7 @@
 # RockPaperScissors
 
 1. [Week 1](https://github.com/ECC-Laboratoria/RockPaperScissors/tree/master/Week1)
+2. [Week 2](https://github.com/ECC-Laboratoria/RockPaperScissors/tree/master/Week2)
 
 
 
