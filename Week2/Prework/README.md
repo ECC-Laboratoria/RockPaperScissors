@@ -48,8 +48,7 @@ Al inicio de cada sesión, haremos preguntas sobre el Prework. Les recomendamos 
 
    8. 1. Buttons
       2. Labels
-      3. Color 
-
+   
 5. Enlista tus 10 apps favoritas 
 
 6. Enlista y describe los cuatro pilares de la programación orientada a objetos 
